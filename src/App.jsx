@@ -11,7 +11,7 @@ const App = () => {
     <div className='flex p-4 flex-col max-w-[600px] m-auto items-center gap-2'>
       <span className='text-4xl'>Solid Starter Kit</span>
       <div className='flex flex-col gap-2'>
-        <span>SSK is a solid (not the JS library) starter kit template to get up and running as quickly as possible when creating a new web app that works offline on mobiles too (PWA).</span>
+        <span>SSK is a solid (not the JS library) starter kit template to get up and running as quickly as possible.</span>
         <span>Use this starter kit if your application will be behind a login, and you have no need for SSR and SEO.</span>
         <p>Fork the template on
         <Button variant='link' className='text-xl'><Link to='https://github.com/Nderim1/solid-starter-kit' target='_blank'>Github</Link></Button>
@@ -40,7 +40,7 @@ const App = () => {
           <li><a href="http://tailwindcss.com" target='_blank' rel='noreferrer' className='underline'>- TailwindCSS</a></li>
           <li><a href="http://ui.shadcn" target='_blank' rel='noreferrer' className='underline'>- Shadcn</a></li>
         </ul>
-        <span className='mt-6 text-sm mb-4'>This kit does not include: Typescript, testing, meta frameworks (Next, SvelteKit, etc), analytics.</span>
+        <span className='mt-6 text-sm mb-4'>SSK does not include: Typescript, testing, meta frameworks (Next, SvelteKit, etc), analytics.</span>
         
       </div>
       <Outlet />
