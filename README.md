@@ -25,4 +25,6 @@ Use this starter kit if your application will be behind a login, and you have no
 - [TailwindCSS](https://tailwindcss.com)
 - [Shadcn](https://ui.shadcn.com)
 
-## How to use it
+## WIP:
+- supabase integration for authentication and DB
+- documentation
