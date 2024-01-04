@@ -1,9 +1,10 @@
 # Solid starter kit
 
 SSK is a solid starter kit template to get up and running as quickly as possible when creating a new web app that works offline on mobiles too (PWA).
+
 Use this starter kit if your application will be behind a login, and you have no need for SSR and SEO.
 
-## SSK provides the following:
+### SSK provides the following:
 - Authentication (Signin/Signup)
 - DB connection
 - Router
@@ -13,8 +14,9 @@ Use this starter kit if your application will be behind a login, and you have no
 - Design system
 - Dark/Light mode
 
-## SSK uses the following tech:
+### SSK uses the following tech:
 - [Vite](https://vitejs.dev)
+- [Vite PWA Plugin](https://vite-pwa-org.netlify.app)
 - [Supabase](https://supabase.com)
 - [React](https://react.dev)
 - [Jotai](https://jotai.org)
@@ -22,3 +24,5 @@ Use this starter kit if your application will be behind a login, and you have no
 - [Tanstack Router](https://tanstack.com/router/v1)
 - [TailwindCSS](https://tailwindcss.com)
 - [Shadcn](https://ui.shadcn.com)
+
+## How to use it
